@@ -1,2 +1,0 @@
-# cbro-free
-script
